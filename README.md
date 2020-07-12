@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! [👋](https://plauk.github.io)
 
 <!--
 **plauk/plauk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
